@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Live Chat",
+  "description": "A modern, mobile-first chat application featuring global chat, private messaging, and an integrated Gemini AI bot. Users can sign up, log in, customize their profiles with photos, and manage their messages with edit and delete functionalities.",
+  "requestFramePermissions": []
+}
